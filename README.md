@@ -1,7 +1,11 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=Sudarshan-A-Patil&label=Profile%20Visits&color=blue&style=for-the-badge)
 <h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Sudarshan Patil</h1>
-<h3 align="center">A passionate frontend developer from India,a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="center">"I am a passionate frontend developer based in India, equally adept as a self-taught full-stack web developer and a freelance software engineer. My enthusiasm for software development is fueled by the ability to turn creative ideas into reality through elegant interfaces. I prioritize the user experience, system architecture, and code quality in everything I build.
+
+Beyond my professional work, I am an avid open-source enthusiast and actively contribute as a maintainer. Learning from the open-source community has been a transformative experience, and I deeply appreciate the collaborative spirit and knowledge-sharing that thrives in the open-source world.
+
+I take pride in my journey as a developer, continuously seeking opportunities to refine my skills and contribute meaningfully to the ever-evolving field of software development."</h3>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
