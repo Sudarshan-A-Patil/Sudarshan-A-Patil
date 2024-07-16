@@ -81,21 +81,12 @@ I take pride in my journey as a developer, continuously seeking opportunities to
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/sudarshan_patil__17/)  &nbsp; 
 <a href="mailto:sudarshanpatil616@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/>
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Sudarshan's github stats](https://github-readme-stats.vercel.app/api?username=Sudarshan-A-Patil&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-A-Patil&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/Sudarshan-A-Patil/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan-A-Patil&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+  ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sudarshan-A-Patil"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-A-Patil&layout=compact"/>
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”— Bill Gates </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
 
 
 
