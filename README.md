@@ -1,33 +1,73 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=Sudarshan-A-Patil&label=Profile%20Visits&color=blue&style=for-the-badge)
 <h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Sudarshan Patil</h1>
-<h3 align="center">"I am a passionate frontend developer based in India, equally adept as a self-taught full-stack web developer and a freelance software engineer. My enthusiasm for software development is fueled by the ability to turn creative ideas into reality through elegant interfaces. I prioritize the user experience, system architecture, and code quality in everything I build.
-
-Beyond my professional work, I am an avid open-source enthusiast and actively contribute as a maintainer. Learning from the open-source community has been a transformative experience, and I deeply appreciate the collaborative spirit and knowledge-sharing that thrives in the open-source world.
-
-I take pride in my journey as a developer, continuously seeking opportunities to refine my skills and contribute meaningfully to the ever-evolving field of software development."</h3>
+<h3 align="center">🚀 Passionate Frontend Developer | 💻 Self-taught Full-Stack Web Developer | 🛠️ Freelance Software Engineer
+📍 Based in India | 🌐 Portfolio | 💼 LinkedIn</h3>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+I’m a Computer Science graduate currently pursuing an MCA, with a strong foundation in software development and a passion for creating clean, intuitive user interfaces. Whether I'm working on frontend UI/UX or architecting full-stack applications, I always prioritize user experience, code quality, and system design.
 
-- 🔭 I’m currently working on **PHP and React Projects**
+My technical toolkit includes:
 
-- 🤝 At **Softanic Solutions Pvt. Ltd. Jalgaon**
+- Frontend: HTML, CSS, JavaScript, Bootstrap
 
-- 🌱 I’m currently learning **React Native & Advance Java.**
+- Backend: Java, Spring Boot, REST APIs
 
-- 💬 Ask me about anything, **i am happy to help;**
+- Data: SQL, Python, Pandas, Power BI
 
-- 🏦 I'm Backend Engineering Lead working for a IT startup in India 
+- Tools & Practices: Git, GitHub, JIRA, Agile
+
+I'm also an enthusiastic open-source contributor, actively learning and sharing with the community. Being part of the open-source world has transformed how I approach collaboration and problem-solving.
+
+🔧 **What I Do:**
+
+- 💡 Turn creative ideas into real-world applications with clean, responsive UIs
+
+- ⚙️ Build robust backend services with Spring Boot and RESTful APIs
+
+- 📊 Analyze and visualize data using Python, Power BI, and SQL
+
+- 🛠️ Contribute to open-source and collaborate on GitHub projects
+
+- 🔍 Continuously learn and explore emerging technologies like Generative AI
+
+🧩 **Projects:**
+🏋️‍♂️ Fitness Club Management System
+- A responsive web app enabling users to track fitness goals and trainers to manage clients seamlessly.
+- Tech Stack: Java, Spring Boot, HTML, CSS, JS, Bootstrap, REST API
+View Project
+
+📈 **Branch Performance Analysis – Internship @ Unified Mentor**
+- Analyzed banking data to generate insights on performance and profitability.
+- Tech Stack: Python, SQL, Power BI, Jupyter, Pandas, Seaborn
+
+📜 **Certifications:**
+- Generative AI for Everyone – Coursera
+
+- Elements of AI – University of Helsinki
+
+- Generative AI on AWS – Infosys | Springboard
+
+- Portfolio Website using HTML & CSS – DevTown
+
+- Facebook Clone using HTML & CSS – DevTown
+
+🌱 **Currently Exploring**
+- Generative AI tools & integrations
+
+- Advanced Spring Boot architecture
+
+- System design principles
+
+- Open-source contribution best practices
+
+“The best way to learn is by building and sharing.” — That's my motto.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
-
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 
 - 👯 We can connect to play some games of Chess ♟
 
