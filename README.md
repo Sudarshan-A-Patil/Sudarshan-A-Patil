@@ -35,9 +35,20 @@ I'm also an enthusiastic open-source contributor, actively learning and sharing 
 - 🔍 Continuously learn and explore emerging technologies like Generative AI
 
 🧩 **Projects:**
-🏋️‍♂️ Fitness Club Management System
-- A responsive web app enabling users to track fitness goals and trainers to manage clients seamlessly.
-- Tech Stack: Java, Spring Boot, HTML, CSS, JS, Bootstrap, REST API
+🏋️‍♂️ Job Portal Web Application
+
+- Developed a full-stack Job Portal web app that allows job seekers to apply for jobs and recruiters to post/manage job listings.
+
+- Implemented features like user registration/login (Spring Security), role-based dashboards (Admin, Company, Applicant), job applications, and resume uploads.
+
+- Designed RESTful APIs for job listing, search, and application tracking using Spring Boot.
+
+- Created dynamic, responsive UI with Thymeleaf templates and integrated real-time form validation using JavaScript.
+
+- Used MySQL for backend data storage and JPA for ORM; ensured efficient data modeling for job and user entities.
+
+- Followed MVC architecture; deployed locally with Maven and tested using Postman and JUnit.
+- Tech Stack: Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, JavaScript
 View Project
 
 📈 **Branch Performance Analysis – Internship @ Unified Mentor**
