@@ -1,7 +1,7 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=Sudarshan-A-Patil&label=Profile%20Visits&color=blue&style=for-the-badge)
 <h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Sudarshan Patil</h1>
-<h3 align="center">🚀 Passionate Frontend Developer | 💻 Self-taught Full-Stack Web Developer | 🛠️ Freelance Software Engineer
+<h3 align="center">🚀 Passionate Frontend Developer | 💻 Self-taught Full-Stack Web Developer | 🛠️ Manual Tester
 📍 Based in India | 🌐 Portfolio | 💼 LinkedIn</h3>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
