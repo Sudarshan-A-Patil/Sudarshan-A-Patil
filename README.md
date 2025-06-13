@@ -51,9 +51,27 @@ I'm also an enthusiastic open-source contributor, actively learning and sharing 
 - Tech Stack: Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, JavaScript
 View Project
 
-📈 **Branch Performance Analysis – Internship @ Unified Mentor**
-- Analyzed banking data to generate insights on performance and profitability.
-- Tech Stack: Python, SQL, Power BI, Jupyter, Pandas, Seaborn
+📈 **🧪 Life Insurance Management System – Manual Testing
+Internship Project (6 Months) @Nimbja Security Solutions Pvt. Ltd.**
+-Description:
+-Manually tested a web-based Life Insurance Management System designed to automate policy creation, premium payments, claims processing, renewals, and compliance. Ensured system reliability and accuracy through comprehensive test planning and execution.
+
+Responsibilities:
+
+- Created detailed test scenarios and test cases based on functional requirements.
+
+- Performed Functional, Integration, Regression, and System Testing.
+
+- Logged and tracked defects using JIRA and Excel.
+
+- Participated in Agile processes: daily stand-ups, sprint reviews, and defect triage meetings.
+
+- Maintained test documentation, including Test Cases, Defect Reports, and RTM.
+
+- Tools & Technologies:
+- JIRA, Excel, TestLink, Postman (Basic API testing), Selenium (Basic), Agile Methodology
+- Browsers Tested: Chrome, Firefox, Edge
+- Environment: Web-based Application on Windows OS
 
 📜 **Certifications:**
 - Generative AI for Everyone – Coursera
