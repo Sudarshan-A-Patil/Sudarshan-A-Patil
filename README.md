@@ -51,27 +51,23 @@ I'm also an enthusiastic open-source contributor, actively learning and sharing 
 - Tech Stack: Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, JavaScript
 View Project
 
-📈 **🧪 Life Insurance Management System – Manual Testing
-Internship Project (6 Months) @Nimbja Security Solutions Pvt. Ltd.**
--Description:
--Manually tested a web-based Life Insurance Management System designed to automate policy creation, premium payments, claims processing, renewals, and compliance. Ensured system reliability and accuracy through comprehensive test planning and execution.
+# 📊 Data Analyst Internship @ Unified Mentor Pvt. Ltd.
 
-Responsibilities:
+**Duration:** Dec 2023 – Mar 2024  
+**Project:** Branch Performance and Profitability Analysis
 
-- Created detailed test scenarios and test cases based on functional requirements.
+## 🔧 Tools & Technologies
+Python | Pandas | NumPy | SQL | Power BI | Jupyter Notebook | Git | GitHub
 
-- Performed Functional, Integration, Regression, and System Testing.
+## 🧠 Responsibilities
+- Cleaned and processed large datasets.
+- Conducted exploratory data analysis (EDA).
+- Created interactive Power BI dashboards for stakeholder reporting.
+- Wrote optimized SQL queries to extract insights from banking data.
+- Version control with Git & GitHub; documentation via Confluence.
 
-- Logged and tracked defects using JIRA and Excel.
+## 📄 [Download Resume](https://drive.google.com/file/d/1lR6nU1Py2AlpeGZA4_W9PYSyTjSuNIb3/view)
 
-- Participated in Agile processes: daily stand-ups, sprint reviews, and defect triage meetings.
-
-- Maintained test documentation, including Test Cases, Defect Reports, and RTM.
-
-- Tools & Technologies:
-- JIRA, Excel, TestLink, Postman (Basic API testing), Selenium (Basic), Agile Methodology
-- Browsers Tested: Chrome, Firefox, Edge
-- Environment: Web-based Application on Windows OS
 
 📜 **Certifications:**
 - Generative AI for Everyone – Coursera
