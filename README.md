@@ -66,7 +66,7 @@ Python | Pandas | NumPy | SQL | Power BI | Jupyter Notebook | Git | GitHub
 - Wrote optimized SQL queries to extract insights from banking data.
 - Version control with Git & GitHub; documentation via Confluence.
 
-## 📄 [Download Resume](https://drive.google.com/file/d/1lR6nU1Py2AlpeGZA4_W9PYSyTjSuNIb3/view)
+## 📄 [Download Certificate](https://drive.google.com/file/d/1lR6nU1Py2AlpeGZA4_W9PYSyTjSuNIb3/view)
 
 
 📜 **Certifications:**
